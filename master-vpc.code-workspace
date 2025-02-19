@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../master-vpc"
+		},
+		{
+			"path": "../../master-subnet"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
